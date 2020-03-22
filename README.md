@@ -13,4 +13,4 @@ https://bitcoin5000.org/<br>
 https://www.youtube.com/channel/UCrDKjaoPoHkawE-YqLga6-w
 
 ## References
-- Bran's Kernel Development Tutorial by Brandon Friesen (http://www.osdever.net/bkerndev/Docs/intro.htm)
+Bran's Kernel Development Tutorial by Brandon Friesen (http://www.osdever.net/bkerndev/Docs/intro.htm)
