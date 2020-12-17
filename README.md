@@ -8,7 +8,7 @@ Operating System for schizophrenics.
 [vnukos.img](https://github.com/smugd/vnukos/raw/master/vnukos.img)
 
 ## Links
-https://abandonedterminal.com/vnukos/index.html<br>
+https://oeoe.moe/abandoned/vnukos/index.html<br>
 https://bitcoin5000.org/<br>
 https://www.youtube.com/channel/UCrDKjaoPoHkawE-YqLga6-w
 
